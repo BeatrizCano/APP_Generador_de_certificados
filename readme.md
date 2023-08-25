@@ -26,13 +26,13 @@
         - Formulario de alumnos, permite:
             -Agregar, modificar y borrar datos
         - Lista de cursos realizados por cada alumno:
-            - Botón "seleccionar" para llevar al alumno al formulario
+            - Botón "seleccionar" para llevar el alumno seleccionado al formulario
             - Cursos en forma de enlace para obtener certificado correspondiente en pdf 
     - Vista cursos:  
         - Formulario de cursos:
             - Agregar, modificar y borrar datos
         - Lista de cursos:
-            - Botón "seleccionar" para llevar al curso al formulario
+            - Botón "seleccionar" para llevar el curso seleccionado al formulario
     - Cierre de sesión
 
 - Cabe destacar el uso de templates para evitar la repetición de código html
