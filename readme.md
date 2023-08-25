@@ -1,7 +1,7 @@
 ## APP_DB
 
 - Este proyecto se ha realizado siguiendo un tutorial de Develoteca enfocado a crear una APP de formación
-- Permite crear certificados en PDF de cada curso realizado, de manera personalizada
+- Permite crear certificados en PDF de cada curso realizado de manera personalizada
 - La dirección del tutorial es: 
     - https://www.youtube.com/watch?v=H7tuBwZyBOg&list=PLpzh_jLMuqxkr9vfq66q44xV5D6l9x6Oa&index=36&t=10413s
 - Se han realizado pequeñas modificaciones en el diseño de la APP para darle un toque personal
