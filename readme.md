@@ -21,7 +21,7 @@
     - Página intermedia de acceso a la vista alumnos.
     - Vista alumnos:
         - Formulario de alumnos, permite:
-            -Agregar, modificar y borrar datos.
+            - Agregar, modificar y borrar datos.
         - Lista de cursos realizados por cada alumno:
             - Botón "seleccionar" para llevar el alumno seleccionado al formulario.
             - Cursos en forma de enlace para obtener certificado correspondiente en pdf.
