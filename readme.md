@@ -1,6 +1,6 @@
 ## APP_DB
 
-- Este proyecto se ha enfocado a crear una APP de formación para administrar a los alumnos, mediante CRUDS y su evolución.
+- Este proyecto se ha enfocado a crear una APP de formación para administrar a los alumnos y su evolución, mediante la utilización de CRUDS.
 - Permite crear certificados en PDF de cada curso realizado de manera personalizada.
 
 ## Lenguaje y Herramientas:
